@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    background-image: url("../img/kanagawa.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+}
+
+/* Definindo background com propriedade abreviada */
+
+p.ex2 {
+    background: #87ceeb url("../img/grass-img.png") no-repeat center;
+}
